@@ -1,6 +1,6 @@
 {
   "name": "netwerk/live",
-  "description": "WEBprofil Live-Package for TYPO3 12.4",
+  "description": "netwerker Live-Package for TYPO3 12.4",
   "type": "library",
   "license": "GPL-2.0-or-later",
   "require": {
@@ -10,4 +10,3 @@
     "gordalina/cachetool": "^9.0"
   }
 }
-
