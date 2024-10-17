@@ -2,7 +2,6 @@
   "name": "netwerk/live",
   "description": "netwerker Live-Package for TYPO3 13.4",
   "type": "library",
-  "version": "1.0.3",
   "license": "GPL-2.0-or-later",
   "require": {
     "typo3/cms-core": "^13.4.0",
